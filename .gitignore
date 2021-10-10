@@ -1,5 +1,7 @@
 .idea
 app/tmp.py
+**/.report.json
+app/tests/env_folder/itam_python_courses
 
 creds
 !creds/.gitkeep

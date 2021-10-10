@@ -11,4 +11,4 @@ def download(url: str):
 
 
 if __name__ == '__main__':
-    download('https://github.com/teadove/itam_python_courses')
+    download('https://github.com/johan4ik/itam_python_courses')

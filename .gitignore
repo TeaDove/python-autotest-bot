@@ -1,3 +1,8 @@
+.idea
+app/tmp.py
+
+creds
+!creds/.gitkeep
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
